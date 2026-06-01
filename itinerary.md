@@ -18,7 +18,8 @@
 - **5:00 am ET** leave Niagara Falls
 - **7:30 am ET** Seneca Falls monument stop
 - **12:00 pm ET** Thai Place Sturbridge
-- **3:30-3:50 pm ET** arrive 56 Tracy Cv Cir, Rome, ME 04963
+- **5:30-6:15 pm ET** Seabrook/Hampton final break + early dinner
+- **7:45-8:15 pm ET** arrive 56 Tracy Cv Cir, Rome, ME 04963
 
 ## Google Maps routes
 
@@ -80,12 +81,12 @@ Use **Hot Woks Cool Sushi near Michigan Ave** instead. It is less "destination T
 - Cuyahoga Valley
 - Long Toledo dinner
 
-## Revised Day 2 stays the same
+## Revised Day 2 (8:00 pm Rome arrival plan)
 
 | Time | Stop | Plan |
 | ---: | --- | --- |
-| **5:00 am ET** | Leave Niagara Falls | Start early to protect schedule and allow accessibility-focused breaks as needed. |
+| **5:00 am ET** | Leave Niagara Falls | Start early and pace the day for an evening arrival in Rome, with accessibility-focused breaks as needed. |
 | **7:15-8:00 am ET** | Seneca Falls / Women's Rights National Historical Park area | Quick, mostly exterior stop using closest accessible parking and shortest path to key monument points. |
 | **12:00-12:45 pm ET** | Thai Place Sturbridge | Thai lunch near I-90; choose easy-entry parking and request accessible seating. |
-| **2:30 pm ET** | Seabrook / Hampton, NH | Final gas/restroom stop at an accessible service area with minimal walking. |
-| **3:30-3:50 pm ET** | Arrive 56 Tracy Cv Cir, Rome, ME 04963 | Buffer before 4 pm; use accessible check-in and unloading route on arrival. |
+| **5:30-6:15 pm ET** | Seabrook / Hampton, NH | Final gas/restroom stop and early dinner at an accessible location with minimal walking. |
+| **7:45-8:15 pm ET** | Arrive 56 Tracy Cv Cir, Rome, ME 04963 | Planned evening arrival around 8:00 pm; use accessible check-in and unloading route on arrival. |
