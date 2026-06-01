@@ -6,7 +6,7 @@
 
 | Time | Stop | Plan |
 | ---: | --- | --- |
-| **5:00 am CT** | Leave Des Moines | Drive straight to Chicago. |
+| **4:00 am CT** | Leave Des Moines | Drive straight to Chicago. |
 | **10:30 am CT** | Arrive Chicago / park | Aim for Millennium Park or River North parking. |
 | **10:45-11:45 am CT** | **Millennium Park / Chicago Riverwalk** | See **Cloud Gate / The Bean**, Crown Fountain, lakefront/Maggie Daley area, then walk toward the Riverwalk. |
 | **11:45 am-1:00 pm CT** | **Thai lunch in Chicago** | Best fit: **Star of Siam** if you want Thai-focused. Backup: **Hot Woks Cool Sushi** if you want to stay closer to Millennium Park. |
@@ -65,7 +65,7 @@ Use **Hot Woks Cool Sushi near Michigan Ave** instead. It is less "destination T
 
 **Saturday**
 
-- **5:00 am CT** leave Des Moines
+- **4:00 am CT** leave Des Moines
 - **10:30 am-1:30 pm CT** Chicago: Millennium Park/Riverwalk + Thai lunch
 - **2:30-3:15 pm CT** Indiana Dunes
 - **9:45-10:30 pm ET** arrive Erie, PA
