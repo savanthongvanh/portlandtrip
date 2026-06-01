@@ -16,7 +16,6 @@
 **Sunday**
 
 - **5:00 am ET** leave Niagara Falls
-- **7:30 am ET** Seneca Falls monument stop
 - **12:00 pm ET** Thai Place Sturbridge
 - **5:30-6:15 pm ET** Seabrook/Hampton final break + early dinner
 - **7:45-8:15 pm ET** arrive 56 Tracy Cv Cir, Rome, ME 04963
@@ -24,7 +23,7 @@
 ## Google Maps routes
 
 - Day 1 route (Des Moines -> Chicago -> Indiana Dunes -> Maumee -> Niagara Falls): [Open Day 1 map](https://www.google.com/maps/dir/?api=1&origin=Des+Moines%2C+IA&destination=Niagara+Falls%2C+NY&travelmode=driving&waypoints=Millennium+Park%2C+Chicago%2C+IL%7CStar+of+Siam%2C+Chicago%2C+IL%7CIndiana+Dunes+National+Park%2C+IN%7CMaumee%2C+OH)
-- Day 2 route (Niagara Falls -> Seneca Falls -> Sturbridge -> Seabrook -> Rome, ME): [Open Day 2 map](https://www.google.com/maps/dir/?api=1&origin=Niagara+Falls%2C+NY&destination=56+Tracy+Cv+Cir%2C+Rome%2C+ME+04963&travelmode=driving&waypoints=Women%27s+Rights+National+Historical+Park%2C+Seneca+Falls%2C+NY%7CThai+Place%2C+Sturbridge%2C+MA%7CSeabrook%2C+NH)
+- Day 2 route (Niagara Falls -> Sturbridge -> Seabrook -> Rome, ME): [Open Day 2 map](https://www.google.com/maps/dir/?api=1&origin=Niagara+Falls%2C+NY&destination=56+Tracy+Cv+Cir%2C+Rome%2C+ME+04963&travelmode=driving&waypoints=Thai+Place%2C+Sturbridge%2C+MA%7CSeabrook%2C+NH)
 
 ## Accessibility-first trip notes (all stops)
 
@@ -86,7 +85,6 @@ Use **Hot Woks Cool Sushi near Michigan Ave** instead. It is less "destination T
 | Time | Stop | Plan |
 | ---: | --- | --- |
 | **5:00 am ET** | Leave Niagara Falls | Start early and pace the day for an evening arrival in Rome, with accessibility-focused breaks as needed. |
-| **7:15-8:00 am ET** | Seneca Falls / Women's Rights National Historical Park area | Quick, mostly exterior stop using closest accessible parking and shortest path to key monument points. |
 | **12:00-12:45 pm ET** | Thai Place Sturbridge | Thai lunch near I-90; choose easy-entry parking and request accessible seating. |
 | **5:30-6:15 pm ET** | Seabrook / Hampton, NH | Final gas/restroom stop and early dinner at an accessible location with minimal walking. |
 | **7:45-8:15 pm ET** | Arrive 56 Tracy Cv Cir, Rome, ME 04963 | Planned evening arrival around 8:00 pm; use accessible check-in and unloading route on arrival. |
