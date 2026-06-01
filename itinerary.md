@@ -18,7 +18,7 @@
 - **5:00 am ET** leave Niagara Falls
 - **7:30 am ET** Seneca Falls monument stop
 - **12:00 pm ET** Thai Place Sturbridge
-- **3:30-3:50 pm ET** arrive Portland, Maine
+- **3:30-3:50 pm ET** arrive 56 Tracy Cv Cir, Rome, ME 04963
 
 ## Accessibility-first trip notes (all stops)
 
@@ -83,4 +83,4 @@ Use **Hot Woks Cool Sushi near Michigan Ave** instead. It is less "destination T
 | **7:15-8:00 am ET** | Seneca Falls / Women's Rights National Historical Park area | Quick, mostly exterior stop using closest accessible parking and shortest path to key monument points. |
 | **12:00-12:45 pm ET** | Thai Place Sturbridge | Thai lunch near I-90; choose easy-entry parking and request accessible seating. |
 | **2:30 pm ET** | Seabrook / Hampton, NH | Final gas/restroom stop at an accessible service area with minimal walking. |
-| **3:30-3:50 pm ET** | Arrive Portland, ME | Buffer before 4 pm; use accessible check-in and unloading route on arrival. |
+| **3:30-3:50 pm ET** | Arrive 56 Tracy Cv Cir, Rome, ME 04963 | Buffer before 4 pm; use accessible check-in and unloading route on arrival. |
