@@ -15,7 +15,7 @@
 
 **Sunday**
 
-- **5:00 am ET** leave Niagara Falls
+- **10:00 am ET** leave Niagara Falls
 - **12:00 pm ET** Thai Place Sturbridge
 - **5:30-6:15 pm ET** Seabrook/Hampton final break + early dinner
 - **7:45-8:15 pm ET** arrive 56 Tracy Cv Cir, Rome, ME 04963
@@ -84,7 +84,7 @@ Use **Hot Woks Cool Sushi near Michigan Ave** instead. It is less "destination T
 
 | Time | Stop | Plan |
 | ---: | --- | --- |
-| **5:00 am ET** | Leave Niagara Falls | Start early and pace the day for an evening arrival in Rome, with accessibility-focused breaks as needed. |
+| **10:00 am ET** | Leave Niagara Falls | Start early and pace the day for an evening arrival in Rome, with accessibility-focused breaks as needed. |
 | **12:00-12:45 pm ET** | Thai Place Sturbridge | Thai lunch near I-90; choose easy-entry parking and request accessible seating. |
 | **5:30-6:15 pm ET** | Seabrook / Hampton, NH | Final gas/restroom stop and early dinner at an accessible location with minimal walking. |
 | **7:45-8:15 pm ET** | Arrive 56 Tracy Cv Cir, Rome, ME 04963 | Planned evening arrival around 8:00 pm; use accessible check-in and unloading route on arrival. |
