@@ -20,6 +20,11 @@
 - **12:00 pm ET** Thai Place Sturbridge
 - **3:30-3:50 pm ET** arrive 56 Tracy Cv Cir, Rome, ME 04963
 
+## Google Maps routes
+
+- Day 1 route (Des Moines -> Chicago -> Indiana Dunes -> Maumee -> Niagara Falls): [Open Day 1 map](https://www.google.com/maps/dir/?api=1&origin=Des+Moines%2C+IA&destination=Niagara+Falls%2C+NY&travelmode=driving&waypoints=Millennium+Park%2C+Chicago%2C+IL%7CStar+of+Siam%2C+Chicago%2C+IL%7CIndiana+Dunes+National+Park%2C+IN%7CMaumee%2C+OH)
+- Day 2 route (Niagara Falls -> Seneca Falls -> Sturbridge -> Seabrook -> Rome, ME): [Open Day 2 map](https://www.google.com/maps/dir/?api=1&origin=Niagara+Falls%2C+NY&destination=56+Tracy+Cv+Cir%2C+Rome%2C+ME+04963&travelmode=driving&waypoints=Women%27s+Rights+National+Historical+Park%2C+Seneca+Falls%2C+NY%7CThai+Place%2C+Sturbridge%2C+MA%7CSeabrook%2C+NH)
+
 ## Accessibility-first trip notes (all stops)
 
 - Prioritize ADA parking/drop-off and step-free entrances at every stop.
